@@ -35,7 +35,7 @@ echo " \e[96m\n\n
 try {
 
 	echo "\e[96m[+] \e[91mSandi\e[0m/> ";
-	$choice = trim(fgets(STDIN));	$spam = new SpamSms-1();
+	$choice = trim(fgets(STDIN));	$spam = new SimpleSpam/Otp();
 
 	if (is_numeric($choice)) {
 		if ($choice == 1) {
