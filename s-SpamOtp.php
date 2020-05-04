@@ -2,9 +2,9 @@
 /*
 * Name : Simple Spam Otp
 * File : s-spamOtp.php
-* Author : DulLah
-* Github : https://github.com/dz-id
-* Telegram : https://t.me/unikers
+* Author : Sandi W
+* Github : https://github.com/sandiwijayani1
+* Youtube : https://youtube.com/SandiW
 * Date : 26-01-2020
 * Version : 1.0
 */
